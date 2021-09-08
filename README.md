@@ -4,7 +4,7 @@ Here are the data for the project:
 
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
-This is a R Programming project of Coursera Data Science Course- Getting and Cleaning Data. The name of the source file is run_analysis.R. This sourse file of R script will do the following as per the requiremen of this project : 
+This is a R Programming project of Coursera Data Science Course- Getting and Cleaning Data. The name of the source file is run_analysis.R. This sourse file of R script will do the following as per the requirement of this project : 
 
 Step 1. Importing the data of activity, subject and feature info. Read data from the files into the variables.
 
